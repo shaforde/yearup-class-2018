@@ -1,0 +1,23 @@
+#container{
+  background-color: #ff4757;
+  height: 800px;
+  display: inline-block;
+}
+#div1{
+  background-color: #ff6b81;
+  height: 800px;
+}
+#div2{
+  background-color: #ff6348;
+  height: 800px;
+}
+#div3{
+  background-color: #ff7f50;
+  height: 800px;
+}
+#div4{
+  width: 50%;
+}
+#div5{
+  width: 50%;
+}
