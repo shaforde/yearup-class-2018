@@ -1,6 +1,7 @@
 #container{
   background-color: #ff4757;
   height: 800px;
+  width: 100%
   display: inline-block;
 }
 #div1{
@@ -17,7 +18,10 @@
 }
 #div4{
   width: 50%;
+  display: inline-block;
 }
 #div5{
   width: 50%;
+  display: inline-block;
+  float: right;
 }
