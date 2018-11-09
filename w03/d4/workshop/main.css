@@ -7,7 +7,10 @@ body{
   background-color:#C0C0C0
 }
 
-
+img#cat{
+  width: 500px;
+  height: 300px;
+}
 
 #box {
   width: 500px;

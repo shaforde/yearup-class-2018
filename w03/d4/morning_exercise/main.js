@@ -14,7 +14,11 @@ function randomQuote(){
   //get a random index from the array
   let randomNumber = Math.floor(Math.random() * quotes.length);
   //manipulate element
+<<<<<<< HEAD
   boxElement.innerHTML = quotes[randomNumber];
+=======
+  quoteElement.innerHTML = quotes[randomNumber];
+>>>>>>> 026609ec1bbcfd90a0d926222f294b94dd46e773
   console.log(quotes);
 }
 
