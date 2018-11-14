@@ -1,0 +1,35 @@
+
+#image1{
+  display: inline-block;
+
+}
+#image2{
+  display: inline-block;
+
+}
+#image3{
+  display: inline-block;
+}
+  #image4{
+    display: inline-block;
+}
+#image5{
+  display: inline-block;
+}
+#image6{
+  display: inline-block;
+}
+#image7{
+  display: inline-block;
+}
+#image8{
+  display: inline-block;
+}
+#image9{
+  display: inline-block;
+}
+
+img{
+  height: 200px;
+  width:200px;
+}
