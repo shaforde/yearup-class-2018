@@ -1,32 +1,123 @@
+header{
+  /* background-image: image("redbull.png"); */
+  /* background-color: yellow; */
+  /* padding: 5%; */
+background-color: blue;
+   border: solid 12px blue;
+  width:100%;
+  /* -webkit-clip-path: ellipse(25% 40% at 50% 50%);
+clip-path: ellipse(25% 40% at 50% 50%); */
+}
+.redbull{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 35%;
+   height: 35%;
+}
+body{
+  background-color:	#D3D3D3;
+}
 
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    color: white;
+}
+#navbar a{
+  color: #c0c0c0;
+  text-align: center;
+  width:100%;
+}
+ul{
+  text-align: center;
+  position: relative;
+  display: inline-block;
+}
+li a {
+    display: inline-block;
+    padding: 8px;
+}
+h1{
+  text-align: center;
+  color: #EF0000;
+   -webkit-text-stroke: 2.5px white;
+    font-size: 50pt;
+}
+h2{
+  text-align: center;
+  color: #EF0000;
+   -webkit-text-stroke: 2.5px white;
+    font-size: 50pt;
+}
+#gallery{
+  text-align: center;
+}
 #image1{
   display: inline-block;
+  border: solid 2px red;
+width: 200px;
+
+
+
 
 }
 #image2{
   display: inline-block;
+    border: solid 2px red;
+      width: 200px;
+
+
 
 }
 #image3{
   display: inline-block;
+    border: solid 2px red;
+         width: 200px;
+
+
 }
   #image4{
     display: inline-block;
+      border: solid 2px red;
+      width: 200px;
+
 }
 #image5{
   display: inline-block;
+    border: solid 2px red;
+    width: 200px;
+
 }
 #image6{
   display: inline-block;
+    border: solid 2px red;
+    width: 200px;
+
 }
 #image7{
   display: inline-block;
+    border: solid 2px red;
+width: 200px;
+
 }
 #image8{
   display: inline-block;
+    border: solid 2px red;
+    width: 200px;
+
 }
 #image9{
   display: inline-block;
+    border: solid 2px red;
+    width: 200px;
+
 }
 
 img{
