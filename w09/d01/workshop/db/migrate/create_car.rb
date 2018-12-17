@@ -1,14 +1,15 @@
 
-class CreateCakes < ActiveRecord::Migration[5.0]
+class CreateCar < ActiveRecord::Migration[5.0]
   def up
-    create_table :cakes do |t|
-      t.string :name
-      t.string :description
-      t.integer :price
+    create_table :cars do |t|
+      t.string :model
+      t.string :make
+      t.integer :cost
+      t.integer :sale
     end
   end
 
   def down
-    drop_table :cakes
+    drop_table :cars
   end
 end

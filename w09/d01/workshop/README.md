@@ -1,4 +1,4 @@
-# Day 38:
++# Day 38:
 ## Johnny Carson’s Customer Tracker
 ### Goal
 To reinforce an understanding of Active Record databases.
